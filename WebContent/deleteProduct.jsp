@@ -6,7 +6,7 @@
 		
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 		<link rel="stylesheet" href="css/style.css">
-		<title>CRUD-INDEX</title>
+		<title>CRUD-DELETE</title>
 	</head>
 	
 	<body>
@@ -50,7 +50,7 @@
 							<input type="text" id="idProduct" name="idProduct">
 						</p>
 						<p>
-							<input type="submit" value="Borrar">
+							<input type="submit" value="Borrar" class="btn btn-primary">
 						</p>
 						
 					</form>

@@ -42,6 +42,9 @@
 					</nav>
 				</div>
 			</div>
+			<div class = "row">
+				<img src="images/crud.jpg" class="img-fluid" alt="Responsive image">
+			</div>
 		</div>
 	</body>
 	

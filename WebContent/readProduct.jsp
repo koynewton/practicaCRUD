@@ -6,7 +6,7 @@
 		
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 		<link rel="stylesheet" href="css/style.css">
-		<title>CRUD-INDEX</title>
+		<title>CRUD-READ</title>
 	</head>
 	
 	<body>
@@ -43,10 +43,12 @@
 				</div>
 			</div>
 			<div class="row fila-1">
-				<div class="col-6 justify-content-center">
+				<div class="col-2"></div>
+				<div class="col-4">
 					<a class="btn btn-primary" href="readGeneral.jsp" role="button">Read General</a>
 				</div>
-				<div class="col-6 justify-content-center">
+				<div class="col-2"></div>
+				<div class="col-4">
 					<a class="btn btn-primary" href="readIndividual.jsp" role="button">Read Individual</a>
 				</div>
 			</div>

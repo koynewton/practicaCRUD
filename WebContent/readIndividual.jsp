@@ -50,7 +50,7 @@
 							<input type="text" id="idProducto" name="idProducto">
 						</p>
 						<p>
-							<input type="submit" value="Buscar">
+							<input type="submit" value="Buscar" class="btn btn-primary">
 						</p>
 					</form>
 				</div>
